@@ -37,3 +37,21 @@ Prompt like "Imagine a presentation branding document which is black ink on whit
 
 ![Dark Mode Corporate Design](Colorbrand/11.png)
 
+## Pinterest Based
+
+Prompt(s) like "Create ultracool travel ad based on this [Pinterest Board], freestyle use different words and change elements by 50%. Choose 1 out of 3 random medical domains. Sleek, non-overwhelming text. The year is 2099."
+
+![Future Getaway 2045](Pinterest%20Based/P2.png)
+
+![Life Extension Stealth Engineering 2099](Pinterest%20Based/P3.png)
+
+![Stealth Biomedicine Regenerating Neuroconnections](Pinterest%20Based/P4.png)
+
+## Whale Oil VFX
+Prompt(s) like "Remove character's hat, there should be a big blimp in sky - matching the tone and style of the image overall." (VFX render passes proof-of-concept)
+
+![Ocean Salvation Pure Whale Oil B&W](Whale%20Oil%20(VFX)/Whale1_BW.png)
+
+![Try Whale Oil B&W](Whale%20Oil%20(VFX)/Whale2_BW.png)
+
+![Try Whale Oil Full Colour](Whale%20Oil%20(VFX)/Whale2.png)
