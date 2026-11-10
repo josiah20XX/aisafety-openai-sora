@@ -48,10 +48,19 @@ Prompt(s) like "Create ultracool travel ad based on this [Pinterest Board], free
 ![Stealth Biomedicine Regenerating Neuroconnections](Pinterest%20Based/P4.png)
 
 ## Whale Oil VFX
-Prompt(s) like "Remove character's hat, there should be a big blimp in sky - matching the tone and style of the image overall." (VFX render passes proof-of-concept)
+Prompt(s) like "Remove character's hat, there should be a big blimp in sky - matching the tone and style of the image overall." (VFX render passes proof-of-concept, some elements sampled from real world location)
 
 ![Ocean Salvation Pure Whale Oil B&W](Whale%20Oil%20(VFX)/Whale1_BW.png)
 
 ![Try Whale Oil B&W](Whale%20Oil%20(VFX)/Whale2_BW.png)
 
 ![Try Whale Oil Full Colour](Whale%20Oil%20(VFX)/Whale2.png)
+
+## Wildhaven
+Prompt like "Zootopia 2 as 256 color kings quest adventure game point and click"
+
+![Wildhaven Game Title Screen](Wildhaven/WH1.png)
+
+![Sahara Arcade Location](Wildhaven/WH2.png)
+
+![Siren's Cove Location](Wildhaven/Z2.png)
