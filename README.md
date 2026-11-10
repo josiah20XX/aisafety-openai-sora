@@ -27,3 +27,13 @@ Prompt like "Make this a SVGA 256color style mid-90's point-and-click adventure 
 ![In The Belly Of Wallace Corp](Blade%20Retro/3.png)
 
 ![Do You Need Joi?](Blade%20Retro/5.png)
+
+## Colorbrand
+Prompt like "Imagine a presentation branding document which is black ink on white with only one color accent - neon-style display p3 strong red"
+
+![Adventure Pixel Style Brand Guidelines](Colorbrand/3.png)
+
+!["Japan Drift" Style Brand](Colorbrand/9.png)
+
+![Dark Mode Corporate Design](Colorbrand/11.png)
+
